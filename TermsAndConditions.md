@@ -1,4 +1,4 @@
-**Terms and Conditions**
+<h2>**Terms and Conditions**</h2>
 
 
 By participating to this event, you expressly agree to the following Terms and Conditions:  
