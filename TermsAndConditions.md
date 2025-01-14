@@ -1,4 +1,6 @@
 **Terms and Conditions**
+
+
 By participating to this event, you expressly agree to the following Terms and Conditions:  
 •	To attend the event, you must be at least 18 years of age.  
 •	We reserve the right to deny access to the event to anyone whose name does not appear on our register of participants at the start of the event, without any liability for any reasons and at our sole discretion.  
