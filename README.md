@@ -2,7 +2,7 @@
 
 INTRO - Lucian Revnic
 
-ARTIFICIAL INTELLIGENCE | MACHINE LEARNING - Adi Bere
+ARTIFICIAL INTELLIGENCE & MACHINE LEARNING - Adi Bere
 
 - AWS Trainium2
 - SageMaker
@@ -22,7 +22,7 @@ ARTIFICIAL INTELLIGENCE | MACHINE LEARNING - Adi Bere
   - Investigate operations issues
   - Transformation .NET, VMWare and Mainframes
 
-SECURITY - [Andrei Stefanie](https://github.com/AndreiStefanie)
+SECURITY & CONTAINERS - [Andrei Stefanie](https://github.com/AndreiStefanie)
 
 SERVERLESS & DATABASES & STORAGE - Laszlo Bodor
 - Aurora DSQL
@@ -36,7 +36,5 @@ SERVERLESS & DATABASES & STORAGE - Laszlo Bodor
 - Announcing AWS Transfer Family web apps
 - Amazon EventBridge and AWS Step Functions announce integration with private APIs
 - Introducing AWS Glue 5.0 (??)
-
-DEVELOPMENT TOOLS - Lucian Revnic
 
 CLOSING ACTIVITIES - Lucian Revnic
