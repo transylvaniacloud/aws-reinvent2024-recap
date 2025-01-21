@@ -24,6 +24,17 @@ ARTIFICIAL INTELLIGENCE & MACHINE LEARNING - Adi Bere
 
 SECURITY & CONTAINERS - [Andrei Stefanie](https://github.com/AndreiStefanie)
 
+- Resource Control Policies (RCPs)
+- Declarative Policies
+- Centralized Management of Root Access
+- GuardDuty Extended Threat Detection
+- Security Incident Response (New Service)
+- Partner Competencies & Specializations
+- New Amazon Cognito Features
+- Amazon EKS Auto Mode
+- Amazon EKS Hybrid Nodes
+- Insightful Sessions & Others (https://sustainability.aboutamazon.com/products-services/aws-cloud)
+
 SERVERLESS & DATABASES & STORAGE - Laszlo Bodor
 - Aurora DSQL
 - DynamoDB global tables previews multi-Region strong consistency
